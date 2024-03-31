@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Bensalah</h1>
-<h3 align="center">A passionate fullstack developer from Morocco</h3>
+<h3 align="center">A passionate Software Engineering Student from Morocco</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubben18" alt="ayoubben18" /></a> </p>
 
