@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayoub Bensalah</h1>
-<h3 align="center">A passionate Software Engineering Student from Morocco</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubben18" alt="ayoubben18" /></a> </p>
 
-- 🔭 I’m currently studying **Computer Science**
+
 
 - 🌱 I’m currently learning **new features and web frameworks**
 
-- 👯 I’m looking for a summer Internship **in Software developement**
+- 👯 I’m looking for am open source contribution **in Software developement**
 
-- 💬 Ask me about **Web Developement , Data analysis**
+- 🔭 I’m currently studying **Computer Science**
 
 - 📫 How to reach me **ayoubbensalah2004@gmail.com or ayoub.bensalah1@usbma.ac.ma**
 
