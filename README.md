@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 📫 How to reach me **ayoubbensalah2004@gmail.com
+- 📫 How to reach me ayoubbensalah2004@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
