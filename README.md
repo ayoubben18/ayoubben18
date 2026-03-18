@@ -17,7 +17,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🦀 Currently Learning: Rust
+###  Leave an email if needed : ayoubbbensalah2004@gmail.com
 
 ---
 
