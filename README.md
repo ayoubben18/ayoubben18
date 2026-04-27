@@ -6,7 +6,7 @@
 
 ### I'm Ayoub Bensalah
 
-**Software Engineer @ Talentino.io** 🚀
+**Software Engineer** 🚀
 
 ---
 
